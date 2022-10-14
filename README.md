@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesalgz&show_icons=true&theme=radical)](https://github.com/fesalgz/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesalgz&show_icons=true&theme=dark)](https://github.com/fesalgz/github-readme-stats)
 
 <!--
 **fesalgz/fesalgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
