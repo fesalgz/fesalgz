@@ -2,10 +2,14 @@
 Olá!👋 Me chamo Felipe, bem vindo ao meu Git!
 </h2>
 
-<p align='center'>
-  Segue abaixo minhas redes! Use-as para me encontrar!
+<p align='center'> 
+  Atualmente estou cursando Ciência da Computação, buscando me aperfeiçoar na área!
+  <br></br>
 </p>
 
+<h4 align='center'>
+  Segue abaixo minhas redes sociais! Use-as para me encontrar!
+<br></br>
 <p align='center'>
   <a href="https://www.instagram.com/eifelipesalgado/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://twitter.com/fesalgz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
@@ -14,15 +18,21 @@ Olá!👋 Me chamo Felipe, bem vindo ao meu Git!
   <a href="https://github.com/fesalgz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+</h4>
 
+<br>
+ 
+<h4 align='center' bold='true'>
+<b>Resumo do meu Git</b>
 <p align='center'>
+  <br>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fesalgz&show_icons=true&count_private=true&theme=dark" width="350"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesalgz&layout=compact&theme=dark" width="350"></a>
 </p>
+</h4>
 
 <details>
   <summary>📃 Resumo</summary>
-
 
 ## Educação
 
@@ -37,6 +47,8 @@ Olá!👋 Me chamo Felipe, bem vindo ao meu Git!
 - 📖 **Técnico Contabilidade**\
 📆 01/2019 - 07/2020\
 📍 **Etec Dr. Geraldo José Rodrigues Alckmin** - Taubaté - SP, Brazil
+  
+</details>
 
 
 <!--
